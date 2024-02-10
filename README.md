@@ -17,7 +17,7 @@ Skills:
 ✅ HTML/HTML5 <br> 
 ✅ CSS/CSS3 <br> 
 ✅ Bootstrap <br> 
-✅ jQuery <br>  
+✅ jQuery <br>
 ✅ JavaScript <br> 
 ✅ Java <br>
 ✅ React.js <br> 
