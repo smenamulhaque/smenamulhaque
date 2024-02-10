@@ -21,7 +21,8 @@ Skills:<br>
 ✅ jQuery <br>
 ✅ JavaScript <br> 
 ✅ Java <br>
-✅ React.js <br> 
+✅ React.js <br>
+✅ NEXT JS 
 ✅ Node.js <br>
 ✅ MYSQL <br> 
 ✅ SQL <br>
