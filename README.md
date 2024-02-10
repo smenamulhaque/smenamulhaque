@@ -13,15 +13,25 @@ Besides, I have also worked in digital marketing at times.
                ✔️Google Analytics
 
 
-Skills: ✅ HTML/HTML5 ✅ CSS/CSS3 <br> 
-        ✅ Bootstrap ✅ jQuery <br>  
-        ✅ JavaScript ✅ Java <br>
-        ✅ React.js ✅ Node.js <br>
-        ✅ MYSQL ✅ SQL <br>
-        ✅ Mongo BD ✅ Express.JS <br>
-        ✅ WordPress ✅ WooCommerce <br>
-        ✅ Elementor ✅ Social Media Marketing <br>
-        ✅ Email Marketing  ✅Google Analytics
+Skills: 
+✅ HTML/HTML5 <br> 
+✅ CSS/CSS3 <br> 
+✅ Bootstrap <br> 
+✅ jQuery <br>  
+✅ JavaScript <br> 
+✅ Java <br>
+✅ React.js <br> 
+✅ Node.js <br>
+✅ MYSQL <br> 
+✅ SQL <br>
+✅ Mongo BD <br> 
+✅ Express.JS <br>
+✅ WordPress <br> 
+✅ WooCommerce <br>
+✅ Elementor <br> 
+✅ Social Media Marketing <br>
+✅ Email Marketing  <br> 
+✅Google Analytics<br> 
 
 
 
